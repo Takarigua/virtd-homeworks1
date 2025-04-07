@@ -160,7 +160,7 @@ services:
 
 ## Ответ 
 
-Пояснение:
+Пояснение: В моей системе оказалась установлена standalone-версия Docker Compose (v2.34.0), а не интегрированный плагин Docker. Поэтому команда docker compose (без дефиса) не работала. Для совместимости я использовал традиционный формат docker-compose с явным указанием файла через флаг -f
 
 ![1](https://github.com/Takarigua/virtd-homeworks1/blob/775ab76236a6860b01297ca947134f055fd0d04b/screen/8.png)
 
