@@ -158,6 +158,24 @@ services:
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
 
+## Ответ 
+
+Пояснение:
+
+![1](https://github.com/Takarigua/virtd-homeworks1/blob/775ab76236a6860b01297ca947134f055fd0d04b/screen/8.png)
+
+---
+
+![1](https://github.com/Takarigua/virtd-homeworks1/blob/775ab76236a6860b01297ca947134f055fd0d04b/screen/9.png)
+
+---
+
+![1](https://github.com/Takarigua/virtd-homeworks1/blob/775ab76236a6860b01297ca947134f055fd0d04b/screen/10.png)
+
+---
+
+![1](https://github.com/Takarigua/virtd-homeworks1/blob/775ab76236a6860b01297ca947134f055fd0d04b/screen/11.png)
+
 ---
 
 ### Правила приема
